@@ -1,0 +1,26 @@
+Random Forest Regression
+
+Random Forests Regression is an ensemble learning method that combines multiple Decision Tree Regressions. The method uses a multitude of decision trees to train and predict values. Random Forests reduces the over-fitting in comparison to using a single Decision Tree model.
+
+For a deeper understanding of Random Forest Regression, use the following resources:
+
+Random Forests
+UNDERSTANDING RANDOM FORESTS
+In this practise session, we will learn to code Random Forest Regression.
+
+We will perform the following steps to build a simple Random Forest Regressor using the Beer dataset from How To Choose The Perfect Beer Hackathon.
+
+Step 1. Data Preprocessing
+
+Importing the libraries.
+Importing the data set.
+Dealing with categorical data.
+Classifying dependent and independent variables.
+Creating training and test sets.
+Step 2. Decision Tree Regression
+
+Create a Random Forest Regression
+Training the regressor with training data.
+predicting the salary for a test set.
+Calculating score from Root Mean Log Squared Error.
+Click on Start/Continue Hackathon to go to the practise page.

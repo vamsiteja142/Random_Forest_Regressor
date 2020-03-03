@@ -2,8 +2,6 @@ Random Forest Regression
 
 Random Forests Regression is an ensemble learning method that combines multiple Decision Tree Regressions. The method uses a multitude of decision trees to train and predict values. Random Forests reduces the over-fitting in comparison to using a single Decision Tree model.
 
-For a deeper understanding of Random Forest Regression, use the following resources:
-
 Random Forests
 UNDERSTANDING RANDOM FORESTS
 In this practise session, we will learn to code Random Forest Regression.
